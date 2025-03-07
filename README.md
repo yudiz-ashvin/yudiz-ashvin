@@ -5,13 +5,6 @@
 
 
 
-### Connect with me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linckedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)](https://www.linkedin.com/in/ashvin-vanol-aa63531b0/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ashvinvanol44@gmail.com)](mailto:ashvinvanol44@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AshvinVanol)](https://twitter.com/AshvinVanol)
-[![github Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white&link=https://github.com/yudiz-ashvin)](https://github.com/yudiz-ashvin)
-[![hackerrank Badge](https://img.shields.io/badge/-Hackerrank-weight?style=flat&logo=hackerrank&logoColor=white&link=https://www.hackerrank.com/18it_ashvin_van1)](https://www.hackerrank.com/18it_ashvin_van1)
 
 <br />
 
